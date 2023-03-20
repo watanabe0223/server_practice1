@@ -1,0 +1,8 @@
+- ls(LiSt)<br>
+- pwd<br>
+- cd(Chenge Directory)<br>
+- mkdir(Make DIRectory)
+- touch<br>
+- cp(copy)<br>
+- mv(MoVe)<br> 
+- rm(ReMove)
