@@ -1,0 +1,161 @@
+    1  docker stop centos7
+    2  $docker stop centos7
+    3  ;
+    4  docker stop centos
+    5  docker kill
+    6  docker stop
+    7  docker kill
+    8  docker stop
+    9  docker start centos7
+   10  "docker stop"
+   11  p
+   12  exit
+   13  ls /
+   14  ls /usr
+   15  pwd
+   16  cd usr
+   17  cd /usr
+   18  pwd
+   19  cd /home
+   20  mkdir test1
+   21  ls
+   22  exit
+   23  exit
+   24  cd /home
+   25  vi README.md
+   26  cat README.md
+   27  mkdir server_lesson && cd server_lesson
+   28  yum update -y && yum -y install git
+   29  git version
+   30  git init
+   31  touch first.txt
+   32  ls /server_lesson
+   33  ls /server_lesson
+   34  pwd
+   35  cd /root
+   36  mkdir server_lesson && cd server_lesson
+   37  yum update -y && yum -y install git
+   38  git version
+   39  git init
+   40  touch first.txt
+   41  git add
+   42  y
+   43  git a
+   44  git add
+   45  mkdir -p linux_practice1/public
+   46  touch public/index.php
+   47  ls public
+   48  ls server_lesson
+   49  cd/home
+   50  cd /home
+   51  cd server_lesson
+   52  mkdir linux_practice1
+   53  ls server_lesson
+   54  mkdir -p  linux_practice1
+   55  ls server_lesson1
+   56  mkdir linux_practice/public
+   57  ls /
+   58  ls usr
+   59  ls /usr
+   60  cd server_lesson
+   61  cd /root
+   62  cd /server_lesson
+   63  ls /root
+   64  cd server_lesson
+   65  mkdir linux_practice1
+   66  ls root
+   67  ls /root
+   68  mkdir server_lesson/linux_practice
+   69  mkdir -p server_lesson/linux_practice
+   70  ls linux_practive
+   71  mkdir linux_practice1
+   72  ls ^l
+   73  ls -l
+   74  sudo apt-get install tree
+   75  exit
+   76  cd /server_lesson
+   77  tree
+   78  exit
+   79  tree
+   80  $ tree
+   81  exit
+   82  find
+   83  find root
+   84  ls /
+   85  cd /server_lesson
+   86  cd server_lesson
+   87  cd /server_lesson
+   88  cd /root
+   89  cd /server_lesson
+   90  ls /root
+   91  cd server_lesson
+   92  mkdir public
+   93  ls server_lesson
+   94  mv sever_lesson/sever_lesson1
+   95  mv linux_practice/linux_practice1
+   96  mv -r linux_practice
+   97  rm -r linux_practice
+   98  ls server_lesson
+   99  rm -r linux_practice
+  100  ls
+  101  ls public
+  102  ls linux_practice1
+  103  tree /f
+  104  exit
+  105  tree -f
+  106  exit
+  107  ls /
+  108  ls /root
+  109  cd /root
+  110  cd /server_lesson
+  111  pwd
+  112  cd /server_lesson
+  113  cd /root
+  114  ls /rot
+  115  ls /root
+  116  cd /root/server_lesson
+  117  ls server_lesson
+  118  ls linux_practice
+  119  ls /linux_practice
+  120  cd /linux_practice
+  121  cd /root/server_lesson/linux_practice
+  122  pwd
+  123  cd /server_lesson/linux_practice
+  124  ls /linux_practice
+  125  mv linux_practice linux_practice1
+  126  ls /server_lesson
+  127  ls /root
+  128  ls server_lesson
+  129  rm server_lesson/linux_practice
+  130  ls server_lesson
+  131  rm -linux_practice
+  132  y
+  133  ls server_lesson
+  134  rm -linux_practice
+  135  rm -r linux_practice
+  136  ls -r linux*
+  137  rm -r linux*
+  138  ls server_lesson
+  139  rm linux*
+  140  rm -r *
+  141* echo history -d 300
+  142  n
+  143  n
+  144  n
+  145   rm -r server_lesson
+  146  y
+  147  exit
+  148  cd root
+  149  cd server_lesson
+  150  cd linux_practice2
+  151  ls -a
+  152  echo history >exec_command.log
+  153  ls -l
+  154  ls exec_command.log
+  155  cat exec_command.log
+  156  echo history 300 > exec_command.log
+  157  cat exec_command.log
+  158  history 300
+  159  history 300 >exec
+  160  rm exec
+  161  history 300 > exec_command.log
